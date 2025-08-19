@@ -1,4 +1,4 @@
- This project was created while following a tutorial by [Mo Chen] Senior Data Analysis in Finance Domain.
+ This project was created while following a tutorial by **Mo Chen** Senior Data Analysis in Finance Domain.
  The goal was to understand how a real-world data analysis project is structured from raw data to actionable insights.
 
 **Coffee_Orders_Dashboard**
@@ -11,7 +11,7 @@ This interactive dashboard shows Coffee Sales performance over time (2019-2022) 
 - Top-performing countries and customers.
 - Dynamic filters and clean visual layout.
 
-**Tools Used**
+**Tools and Excel Functions used**
 - Microsoft Excel
 - Index-Match, VlOOKUP, XLOOKUP, Pivot tables.
 - Slicers and Timeline
