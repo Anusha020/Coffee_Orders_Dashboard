@@ -27,6 +27,6 @@ This dashboard was built to provide business insights for a fictional coffee Sho
 
   **Note**
 
-This was a guided project completed as a learning exercise. The goal was not just to practice Excel tools, but to understand the structure and thinking process behind real-world business reporting.
+This was a guided project completed as a learning exercise. The goal to understand the structure and thinking process behind real-world business reporting.
 
 I am currently working on original projects based on what I’ve learned.
