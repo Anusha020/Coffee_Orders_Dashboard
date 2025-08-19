@@ -15,6 +15,7 @@ This interactive dashboard shows Coffee Sales performance over time (2019-2022) 
 - Data visualization
 
 **Purpose**
+
 This dashboard was built to provide business insights for a fictional coffee Shop to help understand:
 - Sales trends over time
 - High-value customers
