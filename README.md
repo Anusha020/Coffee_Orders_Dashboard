@@ -23,4 +23,4 @@ This dashboard was built to provide business insights for a fictional coffee Sho
 - Regional performance
 
 **Preview**
-![Coffee Dashboard Screenshot]()
+![Coffee Dashboard Screenshot](Screenshot%20Dashboard.png)
