@@ -1,5 +1,5 @@
  This project was created while following a tutorial by [Mo Chen] Senior Data Analysis in Finance Domain.
- The goal was to understand how a real-world data analysis project.
+ The goal was to understand how a real-world data analysis project is structured — from raw data to actionable insights.
 
 **Coffee_Orders_Dashboard**
 
