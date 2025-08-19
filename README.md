@@ -1,3 +1,6 @@
+ This project was created while following a tutorial by [Mo Chen] Senior Data Analysis in Finance Domain.
+ The goal was to understand how a real-world data analysis project.
+
 **Coffee_Orders_Dashboard**
 
 This interactive dashboard shows Coffee Sales performance over time (2019-2022) using Excel.
